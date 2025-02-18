@@ -2,5 +2,5 @@ using Atomistic
 using Test
 
 @testset "Atomistic.jl" begin
-    # Write your tests here.
+    include("imports.jl")
 end
